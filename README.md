@@ -9,13 +9,14 @@
 
 ## Terminal Install
 ![Screenshot (469)](https://github.com/user-attachments/assets/dbb65fd9-9e7d-434f-91f8-3f84823cc1a4)
+
 ![Screenshot (468)](https://github.com/user-attachments/assets/bbf90568-30e0-496f-bf55-01dc219e98a7)
 
 ## VSCode – web.php
 ![Screenshot (470)](https://github.com/user-attachments/assets/81de546c-acff-4f34-83e4-43e1257709fd)
 
 ## Dashboard
-![Screenshot (471)](https://github.com/user-attachments/assets/996fe015-2c4a-4f2c-8c97-6fc0b38bd968)
+![Screenshot 2025-03-08 160717](https://github.com/user-attachments/assets/d3996182-5d43-4ec7-83b6-a17ac0c36773)
 
 ## Database 
 ![Screenshot (473)](https://github.com/user-attachments/assets/555128be-e845-451a-8831-78b4cfe84bd5)
